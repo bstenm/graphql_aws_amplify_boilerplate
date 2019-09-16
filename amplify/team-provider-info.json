@@ -1,0 +1,14 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "graphqlamplify-local-20190916191120-authRole",
+            "UnauthRoleArn": "arn:aws:iam::755796975476:role/graphqlamplify-local-20190916191120-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::755796975476:role/graphqlamplify-local-20190916191120-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "graphqlamplify-local-20190916191120-deployment",
+            "UnauthRoleName": "graphqlamplify-local-20190916191120-unauthRole",
+            "StackName": "graphqlamplify-local-20190916191120",
+            "StackId": "arn:aws:cloudformation:eu-west-2:755796975476:stack/graphqlamplify-local-20190916191120/4c17b0a0-d8d7-11e9-9e48-0a5f6fd32d44"
+        }
+    }
+}
